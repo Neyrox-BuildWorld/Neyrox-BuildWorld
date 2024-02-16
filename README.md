@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🇨🇵 Français / French
--- 👋 Salut, je suis @Neyrox-BuildWorld
+- 👋 Salut, je suis @Neyrox-BuildWorld
 - 👀 Je suis intéressé par le codage.
 - 🌱 J'apprends actuellement JavaScript.
 - 💞️ Je cherche à collaborer sur rien pour l'instant.
